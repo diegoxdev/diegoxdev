@@ -4,6 +4,12 @@
 - Discord'la uğraşıyordum. 2019'dan beri Javascript ve Discord sunucuları için botlar geliştiriyorum.
 - Projelerimi Github hesabımda sizinle paylaşacağım ve profesyonelce yapacağım..
 
+## 📞 Bana Discord'dan ulaş!
+
+- Projelerimin hatalarını atmaktan hiç çekinme. Seni yargılamayız.
+
+- ***diegoxsad#7281***
+
 ## Bildiğim bazı kodlama dilleri ; 
 <p>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
