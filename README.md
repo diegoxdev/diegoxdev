@@ -1,22 +1,5 @@
-# 👋 Merhaba! Ben Alp
+# Merhaba! Ben Alp.
+Yaklaşık 3 yıldır **JavaScript, HTML, CSS vb..** dillerinde projeler yapıyorum.
 
-- Sizlere biraz kendimden bahsedeyim.`2.5` yıldır bot yapıyorum. Hâlâ aktif olarak Discord Bot Geliştiricisiyim.
-- 2019'dan beri Javascript ve Discord sunucuları için botlar geliştiriyorum.
-- Projelerimi Github hesabımda sizinle paylaşacağım ve profesyonelce yapacağım..
 
-## 📞 Bana Discord'dan ulaş!
-
-- Projelerimin hatalarını atmaktan hiç çekinme. Seni yargılamayız.
-
-- ***' diego white?#3953***
-
-## Bildiğim bazı kodlama dilleri ; 
-<p>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
-</p>
-
-## Github Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoxdev)](https://github.com/diegoxdev)
+![Metrics](https://metrics.lecoq.io/diegoxdev?template=classic&languages=1&gists=1&stars=1&languages.limit=8&languages.colors=github&languages.threshold=5%25&stars.limit=4&config.timezone=Europe%2FIstanbul)
