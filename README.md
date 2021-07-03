@@ -1,14 +1,14 @@
 # 👋 Merhaba! Ben Alp
 
 - Sizlere biraz kendimden bahsedeyim.`2.5` yıldır bot yapıyorum. Hâlâ aktif olarak Discord Bot Geliştiricisiyim.
-- Discord'la uğraşıyordum. 2019'dan beri Javascript ve Discord sunucuları için botlar geliştiriyorum.
+- 2019'dan beri Javascript ve Discord sunucuları için botlar geliştiriyorum.
 - Projelerimi Github hesabımda sizinle paylaşacağım ve profesyonelce yapacağım..
 
 ## 📞 Bana Discord'dan ulaş!
 
 - Projelerimin hatalarını atmaktan hiç çekinme. Seni yargılamayız.
 
-- ***diegoxsad#7281***
+- ***' diego white?#3953***
 
 ## Bildiğim bazı kodlama dilleri ; 
 <p>
